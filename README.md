@@ -1,6 +1,5 @@
-<P align="center">
-    <a href="https://github.com/hamidrjpr2"> <p>### Hi There </p> </a>
-</P>
+### Hi There, I'm HamidReza
+**`Front-End Junior (HTML,CSS,SCSS)`**
 <!--
 **hamidrjpr2/hamidrjpr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
