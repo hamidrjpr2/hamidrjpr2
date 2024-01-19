@@ -1,5 +1,6 @@
-### Hi there 👋
-**`Front-End Junior`**
+### Hi there 👋 I'm HamidReza
+
+**`Front-End Junior`(HTML,Css,Scss)**
 <!--
 **hamidrjpr2/hamidrjpr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
