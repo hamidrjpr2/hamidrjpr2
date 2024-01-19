@@ -1,4 +1,4 @@
-<img src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1284736/op-Ten-Front-End-Design-Rules-For-Developers_Luke-Social-33a3a7c9b759fdaa22973906070f8065.png" width="800">
+![Banner](codding.gif)
 <h1 style="color: red;" align="center">Hi 👋, I'm HamidReza</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&random=false&width=435&lines=Junior+Front-End+Developer;Learning+Css%2C+Scss" alt="Typing SVG" /></a></h3>
 
