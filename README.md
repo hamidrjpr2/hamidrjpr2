@@ -1,5 +1,9 @@
 ### Hi There, I'm HamidReza
 **`Front-End Junior (HTML,CSS,SCSS)`**
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=In+pursuit+of+Knowledge;I+love+coding" alt="Typing SVG" /></a>
+</p>
 <!--
 **hamidrjpr2/hamidrjpr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
